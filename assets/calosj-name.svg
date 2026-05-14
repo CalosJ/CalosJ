@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 75" width="700" height="75" role="img" aria-label="Calos Lucero">
+  <title>Calos Lucero</title>
+  <defs>
+    <style><![CDATA[
+      .name {
+        font-family: 'Fira Code', 'JetBrains Mono', 'SF Mono', 'Courier New', monospace;
+        font-size: 38px;
+        font-weight: 700;
+        fill: #00D9FF;
+        text-anchor: middle;
+        letter-spacing: 0.5px;
+        filter: drop-shadow(0 0 8px rgba(0, 217, 255, 0.5));
+      }
+      .underline {
+        stroke: #00D9FF;
+        stroke-width: 1.5;
+        opacity: 0.45;
+        stroke-linecap: round;
+        filter: drop-shadow(0 0 3px rgba(0, 217, 255, 0.6));
+      }
+    ]]></style>
+  </defs>
+  <text class="name" x="350" y="46">Calos Lucero</text>
+  <line class="underline" x1="270" y1="62" x2="430" y2="62" />
+</svg>
