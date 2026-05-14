@@ -55,12 +55,12 @@ I'm a Computer Science student at <a href="https://www.laguardia.edu">LaGuardia 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalosJ&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Calos's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalosJ&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CalosJ&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&cache_seconds=1800" alt="Calos's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalosJ&layout=compact&theme=dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=CalosJ&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=CalosJ&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 #
