@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/calosj-typing.svg" alt="Aspiring Backend Engineer — animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Backend+Engineer;Curious+Mind;CS+Student&font=Fira+Code&center=true&width=600&height=60&color=00D9FF&vCenter=true&pause=1000&size=28" alt="Aspiring Backend Engineer — animated tagline" />
 </p>
 
 <p align="center">
